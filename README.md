@@ -1,4 +1,4 @@
-Silly Temp Repo
+Serious Temp Repo
 ====
 
-For silly things
+For serious things
